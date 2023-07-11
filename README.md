@@ -16,9 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitwarrior7&label=Profile%20views&color=0e75b6&style=flat" alt="sumitwarrior7" /> </p>
 
-- 🔭 I’m currently working on **MERN website**
+- 🔭 I’m currently working on improving my **DSA skills**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Python, Django, Bootstrap, React JS**
 

@@ -7,7 +7,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20from%20India;Tech%20Executive%20at%20CSI%20IIT%20(BHU);Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=149414&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Developer%20from%20India;Core%20Team%20member%20at%20CSI%20IIT%20(BHU);Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=149414&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitwarrior7&label=Profile%20views&color=0e75b6&style=flat" alt="sumitwarrior7" /> </p>
 
-- 🔭 I’m currently working on improving my **DSA skills**
+- 🔭 I’m currently working on improving my **DSA skills** using Python
 
 - 🌱 I’m currently learning **NextJS**
 

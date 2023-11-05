@@ -53,4 +53,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
+[![An image of @sumitwarrior7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumitwarrior7)](https://holopin.io/@sumitwarrior7)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sumitwarrior7&show_icons=true&theme=gotham" alt="sumitwarrior7" />
